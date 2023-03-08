@@ -2,6 +2,10 @@
 
 Python Developer and Linux Enthusiast
 
+```sh
+$ cat about.py
+```
+
 ```py
 # Want to know about me?
 
