@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**pshreyam/pshreyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer and Linux Enthusiast
 
-Here are some ideas to get you started:
+# Want to know about me?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```py
+info = {
+    "name": "Shreyam Pokharel",
+    "website": "https://shreyampokharel.tech",
+    "language": ["Nepali", "English"],
+    "programming_language": {
+        "Python": {
+            "frameworks": ["Flask", "Django", "PyQt5"]
+        }
+    },
+    "skills": ["Backend Development", "Database", "Version Control", "Linux Tools"],
+    "hobbies": ["Cricket", "Singing", "...", "and of course Coding"]
+}
+```
