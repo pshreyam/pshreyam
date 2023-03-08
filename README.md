@@ -2,9 +2,9 @@
 
 Python Developer and Linux Enthusiast
 
+```py
 # Want to know about me?
 
-```py
 info = {
     "name": "Shreyam Pokharel",
     "website": "https://shreyampokharel.tech",
