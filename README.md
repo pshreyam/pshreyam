@@ -11,7 +11,6 @@ $ cat about.py
 
 info = {
     "name": "Shreyam Pokharel",
-    "website": "https://shreyampokharel.tech",
     "language": ["Nepali", "English"],
     "programming_language": {
         "Python": {
